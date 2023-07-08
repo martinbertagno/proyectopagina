@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Wines of Argentina</title>
+    <base href="/">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons&display=swap" rel="stylesheet">
+
+    <!--Facebook META-->
+    <meta name="facebook-domain-verification" content="exnsypoq1hk1xutszkaq502boro7vj" />
+    <!--End FB Metal-->
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5SNM8SC');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '2414507695445614');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" 
+        src="https://www.facebook.com/tr?id=2414507695445614&ev=PageView
+        &noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- El aviso de consentimiento de cookies de OneTrust comienza para winesofargentina.org. -->
+    <script src="https://cdn.cookielaw.org/consent/43ae73c4-a30b-43e2-a453-2ed31de6266f/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="43ae73c4-a30b-43e2-a453-2ed31de6266f" ></script>
+    <script type="text/javascript">
+    function OptanonWrapper() { }
+    </script>
+    <!-- El aviso de consentimiento de cookies de OneTrust finaliza para winesofargentina.org. -->
+<link rel="stylesheet" href="styles.488e53b9b2e748ddad22.css"></head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SNM8SC"
+            height="0" width="0" style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <app-root>
+        <div class="absolute">
+            <div id="preloader_3">
+            </div>
+        </div>
+    </app-root>
+<script type="text/javascript" src="runtime.348f82354ccbb0fea5f1.js"></script><script type="text/javascript" src="polyfills.be5b8aafc47832d74594.js"></script><script type="text/javascript" src="scripts.95f42f1b77901a60ff63.js"></script><script type="text/javascript" src="vendor.838fa45168643538de37.js"></script><script type="text/javascript" src="main.77326203191d89d81bcc.js"></script></body>
+
+</html>

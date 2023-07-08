@@ -1,0 +1,37 @@
+* {
+    background-image: url(../logos.cervezas.img/background.jpg );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Caveat', cursive;
+}
+
+h2 {
+    text-align: center;
+    
+    padding-top: 10px;
+
+    color: whitesmoke;
+    text-shadow: 5px 5px 10px rgba(149, 2, 2, 0.786);
+    font-size: 100px;
+    padding-top: 80px;
+}
+
+li {
+    display: inline;
+    list-style: none;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    padding-left: 1px;
+    border-radius: 20px;
+    border: 5px solid
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+}

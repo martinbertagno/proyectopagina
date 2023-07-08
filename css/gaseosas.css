@@ -1,0 +1,30 @@
+*{ background-image: url(../gaseosas.logos.img/descargaback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed ;;
+font-family:caveat ;}
+
+h2 {
+    text-align: center;
+    font-size: 100px;
+    padding-top: 10px
+}
+
+li {
+    display: inline;
+    list-style: none;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    padding-left: 2px;
+    border-radius: 20px;
+    border:5px solid
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+}
+

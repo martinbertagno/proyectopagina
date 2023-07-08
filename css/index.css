@@ -1,0 +1,220 @@
+* {
+   
+    margin: 0%;
+    ;
+    flex-wrap: wrap;
+    background-image: url(../imagenes.index/cervezas-quilmes.back.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+
+}
+
+
+
+header {
+    background-image: url(../imagenes.index/giffff.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.presentacion h1 {
+    text-align: center;
+    color: rgb(46, 38, 142);
+    text-shadow: 5px 5px 10px rgba(149, 2, 2, 0.786);
+    font-size: 100px;
+    padding-top: 80px;
+
+}
+
+
+
+.redes p {
+    margin: 20px;
+    color: rgb(10, 29, 29);
+    text-align: justify inline;
+    font-size: 60px;
+    text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
+
+
+}
+
+.redes {
+    padding-top: 5;
+    margin-top: 10
+}
+
+.redes ul li {
+    display: inline;
+    text-align: center;
+}
+
+
+
+.navegadores h2 {
+    text-align: center;
+    font-size: 80px;
+    color: darkred;
+}
+
+.navegadores {
+    
+    margin-top: 0px;
+}
+
+li {
+    display: inline;
+    list-style: none;
+}
+
+nav ul li a img {
+    width: 400px;
+    height: 200px;
+    padding-left: 100px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 85px;
+    text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
+}
+
+.container {
+    width: 100%;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.caja a img {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 3px solid
+}
+
+.promociones {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 5px;
+
+    background-color: rgb(100, 111, 111)
+}
+
+.destacados {
+    width: 230px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 5px;
+    border: 2px solid;
+    background-color: rgb(100, 111, 111)
+}
+
+.destacados img {
+    width: 230px;
+    height: 250px;
+    border: 1px solid;
+    ;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.destacados p {
+    background-color: rgb(3, 4, 4);
+    border: 1px solid;
+    width: 230px;
+    height: 80px
+}
+
+.promociones h2 {
+    font-size: 80px;
+    text-align: center;
+    color: darkred;
+    text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
+}
+
+
+.micuenta {
+    width: 100%;
+    height: 40px;
+}
+
+.micuenta ul li a {
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 5px;
+    list-style: none;
+    background-color: blueviolet;
+    margin: 30px;
+    margin-bottom: 10%;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+
+
+
+}
+
+.micuenta {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.sobrenosotros {
+    background-color: coral;
+    color: rgb(3, 3, 3);
+    text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
+}
+
+.sobrenosotros h2 {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(11, 11, 11);
+    text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
+}
+
+
+.ubicacion {
+    background-color: darkkhaki;
+    color: rgb(6, 6, 5);
+    text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
+}
+
+.ubicacion h2 {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(5, 5, 5);
+    text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
+}
+
+footer {
+   
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
+
+}
+
+footer h2 {
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
+}
