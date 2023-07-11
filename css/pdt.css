@@ -1,0 +1,50 @@
+* {
+    font-family: 'Caveat', cursive;
+    ;
+    font-size: 15px;
+}
+
+.titulos {
+    background-image: url(../gaseosas.img/gaseosas/pdtback.jpg );
+
+    background-attachment: fixed;
+}
+
+body {
+    background-image: url(../gaseosas.img/gaseosas/pdtback.jpg );
+    background-size: cover;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(21, 255, 0);
+    text-shadow: 10px 10px 15px rgba(5, 1, 1, 0.786);
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    text-shadow: rgba(5, 1, 1, 0.786);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+img {
+    width: 220px;
+    height: 300px;
+}
+
+.calibres {
+    margin: 10px;
+    
+    background-color: rgb(100, 111, 111);
+
+}

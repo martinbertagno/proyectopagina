@@ -1,0 +1,52 @@
+* {
+    font-family: 'Caveat', cursive;
+    ;
+    font-size: 15px;
+}
+
+body {
+    background-image: url(../gaseosas.img/jugos/delvalleback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titulo {
+    background-image: url(../gaseosas.img/jugos/delvalleback.jpg);
+    text-align: center;
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 100px;
+    color: brown;
+}
+
+h3 {
+    font-size: 50px;
+    color: brown;
+}
+
+h4 {
+    font-size: 50px;
+    color: brown;
+}
+h5{font-size: 100px;color: brown;}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+img {
+    width: 250px;
+    height: 300px;
+}
+
+.calibres {
+    margin: 5px;
+    border: 2px solid;
+    background-color: rgb(100, 111, 111);
+    margin-right: 20px;
+}

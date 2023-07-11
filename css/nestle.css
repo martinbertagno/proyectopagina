@@ -1,0 +1,38 @@
+* {
+    font-family: 'Caveat', cursive;
+    ;
+    font-size: 15px;
+}
+
+body {
+    background-image: url(../gaseosas.img/aguas/nestleback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titulo{
+    background-image: url(../gaseosas.img/aguas/nestleback.jpg);
+    text-align: center;
+    font-size: 100px;
+}
+ h2{font-size: 100px}
+ h3{font-size: 60px}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+img {
+    width: 250px;
+    height: 300px;
+}
+
+.calibres {
+    margin: 5px;
+   
+    background-color: rgb(100, 111, 111);
+margin-right: 40px;
+}

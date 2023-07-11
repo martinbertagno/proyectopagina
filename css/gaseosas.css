@@ -1,15 +1,13 @@
-*{ background-image: url(../gaseosas.logos.img/descargaback.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment:fixed ;;
-font-family:caveat ;}
+*{
+font-family:caveat ; background-image: url(../gaseosas.logos.img/backpepsi.jpg)
+;background-size: cover;background-attachment: fixed;}
 
 h2 {
     text-align: center;
     font-size: 100px;
     padding-top: 10px
 }
-
+.titulo{color:white ;}
 li {
     display: inline;
     list-style: none;

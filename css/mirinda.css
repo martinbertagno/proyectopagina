@@ -1,16 +1,16 @@
 * {
     font-family: 'Caveat', cursive;
-    ;font-size:25px ;
+    ;font-size:15px ;
 }
 
 body {
-    background-image: url(../gaseosas.img/gaseosas/pepsibackground.jpg);
+    background-image: url(../gaseosas.img/gaseosas/mirindaback.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment:fixed ;
 }
 
-h2 { 
+h2 { background-image: url(../gaseosas.img/gaseosas/mirindaback.jpg);
     text-align: center;
     font-size: 100px;
 }
@@ -21,17 +21,10 @@ h2 {
     flex-wrap: wrap;
     
 }
-
+img{width: 220px;height: 300px;}
 .calibres {
-    margin: 30px;
-  
+    margin: 10px;
+   
     background-color: rgb(100, 111, 111);
 
-}
-
-img {
-    width: 250px;
-    height: 250px;
-   
-    ;
 }

@@ -1,37 +1,37 @@
 * {
     font-family: 'Caveat', cursive;
-    ;font-size:25px ;
+    ;
+    font-size: 15px;
 }
 
 body {
-    background-image: url(../gaseosas.img/gaseosas/pepsibackground.jpg);
+    background-image: url(../gaseosas.img/jugos/awaback.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
-h2 { 
+.titulo{
+    background-image: url(../gaseosas.img/jugos/awaback.jpg);
     text-align: center;
     font-size: 100px;
 }
-
+h2{font-size: 100px}
 .container {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    
-}
-
-.calibres {
-    margin: 30px;
-  
-    background-color: rgb(100, 111, 111);
 
 }
 
 img {
     width: 250px;
-    height: 250px;
-   
-    ;
+    height: 300px;
+}
+
+.calibres {
+    margin: 10px;
+    
+    background-color: rgb(100, 111, 111);
+margin-right: 80px;
 }
