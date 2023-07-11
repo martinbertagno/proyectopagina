@@ -1,16 +1,18 @@
 * {
     font-family: 'Caveat', cursive;
-    ;font-size:15px ;
+    ;
+    font-size: 15px;
 }
 
 body {
     background-image: url(../gaseosas.img/gaseosas/mirindaback.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment:fixed ;
+    background-attachment: fixed;
 }
 
-h2 { background-image: url(../gaseosas.img/gaseosas/mirindaback.jpg);
+h2 {
+    background-image: url(../gaseosas.img/gaseosas/mirindaback.jpg);
     text-align: center;
     font-size: 100px;
 }
@@ -19,12 +21,17 @@ h2 { background-image: url(../gaseosas.img/gaseosas/mirindaback.jpg);
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    
+
 }
-img{width: 220px;height: 300px;}
+
+img {
+    width: 220px;
+    height: 300px;
+}
+
 .calibres {
     margin: 10px;
-   
+
     background-color: rgb(100, 111, 111);
 
 }

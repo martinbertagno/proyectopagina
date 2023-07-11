@@ -11,13 +11,20 @@ body {
     background-attachment: fixed;
 }
 
-.titulo{
+.titulo {
     background-image: url(../gaseosas.img/aguas/nestleback.jpg);
     text-align: center;
     font-size: 100px;
 }
- h2{font-size: 100px}
- h3{font-size: 60px}
+
+h2 {
+    font-size: 100px
+}
+
+h3 {
+    font-size: 60px
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -32,7 +39,7 @@ img {
 
 .calibres {
     margin: 5px;
-   
+
     background-color: rgb(100, 111, 111);
-margin-right: 40px;
+    margin-right: 40px;
 }

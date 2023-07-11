@@ -1,6 +1,5 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    ;
+    font-family: 'Caveat', cursive;
 }
 
 body {
@@ -13,7 +12,8 @@ h2 {
 }
 
 .container {
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 .bud {

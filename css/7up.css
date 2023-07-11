@@ -1,13 +1,14 @@
 * {
     font-family: 'Caveat', cursive;
-    ;font-size:25px ;
+    ;
+    font-size: 25px;
 }
 
 body {
     background-image: url(../gaseosas.img/gaseosas/7upback.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment:fixed ;
+    background-attachment: fixed;
 }
 
 h2 {
@@ -19,12 +20,17 @@ h2 {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    
+
 }
-img{width: 220px;height: 300px;}
+
+img {
+    width: 220px;
+    height: 300px;
+}
+
 .calibres {
     margin: 50px;
-    
+
     background-color: rgb(85, 87, 87);
 
 }

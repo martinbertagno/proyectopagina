@@ -1,6 +1,5 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    ;
+    font-family: 'Caveat', cursive;
 }
 
 body {
@@ -13,14 +12,15 @@ h2 {
 }
 
 .container {
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 .temple {
     margin: 10px;
     border: 2px solid;
     background-color: rgb(100, 111, 111);
-    
+
 }
 
 img {

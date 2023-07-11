@@ -31,7 +31,12 @@ h4 {
     font-size: 50px;
     color: brown;
 }
-h5{font-size: 100px;color: brown;}
+
+h5 {
+    font-size: 100px;
+    color: brown;
+}
+
 .container {
     display: flex;
     justify-content: center;

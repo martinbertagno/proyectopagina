@@ -20,7 +20,12 @@ body {
 h2 {
     font-size: 100px
 }
-h3{ font-size: 40px;text-align: center;}
+
+h3 {
+    font-size: 40px;
+    text-align: center;
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -35,7 +40,7 @@ img {
 
 .calibres {
     margin: 10px;
-   
+
     background-color: rgb(100, 111, 111);
     margin-right: 20px;
 }

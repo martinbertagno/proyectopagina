@@ -1,5 +1,5 @@
 * {
-   
+
     margin: 0%;
     ;
     flex-wrap: wrap;
@@ -61,7 +61,7 @@ header {
 }
 
 .navegadores {
-    
+
     margin-top: 0px;
 }
 
@@ -206,7 +206,7 @@ h2 {
 }
 
 footer {
-   
+
     color: rgb(0, 0, 0);
     text-shadow: 2px 2px 5px rgba(149, 2, 2, 0.786);
 
