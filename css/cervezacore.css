@@ -1,16 +1,13 @@
 * {
-    background-image: url(../logos.cervezas.img/background.jpg );
+    background-image: url(../imagenes.index/cervezas-quilmes.back.webp );
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Caveat', cursive;
 }
 
-h2 {
+h2 {margin-top: 5px;
     text-align: center;
-
-    padding-top: 10px;
-
     color: whitesmoke;
     text-shadow: 5px 5px 10px rgba(149, 2, 2, 0.786);
     font-size: 100px;
@@ -20,18 +17,18 @@ h2 {
 li {
     display: inline;
     list-style: none;
-
+padding-left:20px ;
 }
 
 img {
     width: 200px;
     height: 200px;
-    padding-left: 1px;
+    
     border-radius: 20px;
     border: 5px solid
 }
 
-p {
+p {margin-top: 1px;
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
 }

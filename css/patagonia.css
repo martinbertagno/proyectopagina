@@ -1,9 +1,15 @@
 * {
     font-family: 'Caveat', cursive;
+    
 }
 
+
+
 body {
-    background-color: rgb(188, 181, 181);
+    background-color: rgb(188, 181, 181);background-image: url(../patagonia.img/patagoniaback1.jpg);
+    background-size: 100% 110%;
+    background-attachment:fixed;
+    font-size:20px;
 }
 
 h2 {
@@ -27,17 +33,13 @@ h2 {
 }
 
 .patagonia {
-    margin: 10px;
-    border: 1px solid;
-    border: 2px solid;
+    margin: 50px;
     background-color: rgb(100, 111, 111)
 }
 
 img {
     width: 230px;
     height: 250px;
-    border: 1px solid;
-    ;
 }
 
 h3 {

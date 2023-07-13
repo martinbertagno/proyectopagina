@@ -1,9 +1,10 @@
 * {
     font-family: 'Caveat', cursive;
+     ;
 }
 
 body {
-    background-color: rgb(188, 181, 181);
+    background-image: url(../stella.img/stellaback.jpg);background-size: cover;
 }
 
 h2 {
@@ -14,9 +15,11 @@ h2 {
 .container {
     display: flex;
     justify-content: center;
+    margin-top: 100px;
 }
 
 .stella {
+   
     margin: 10px;
     border: 2px solid;
     background-color: rgb(100, 111, 111)

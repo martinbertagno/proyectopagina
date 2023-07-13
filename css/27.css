@@ -4,30 +4,30 @@
 }
 
 body {
-    background-color: rgb(188, 181, 181);
+    background-image: url(../goose.fotos/27back.jpg);
     display: flex;
     justify-content: center;
 }
 
-h3 {
-    text-align: center;
+h3 { 
+    
     font-size: 50px;
 }
 
 .container {
+   
 
-
-    margin: 10px;
-    border: 2px solid;
-    width: 150px;
+    margin-top: 150px;
+    width: 200px;
+    height: 350px;
 }
 
 img {
-    width: 100px;
-    height: 250px;
+    width: 200px;
+    height: 300px;
 }
 
 .parrafo {
-    border: 1px solid;
+   font-size: 25px; 
     background-color: rgb(100, 111, 111);
 }

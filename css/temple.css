@@ -3,12 +3,12 @@
 }
 
 body {
-    background-color: rgb(188, 181, 181);
+    background-image:url(../temple.fotos/con-ustedes-nuestra-fabrica.jpg);
 }
 
-h2 {
+h2 {margin-top:30px ;
     text-align: center;
-    font-size: 35px;
+    font-size: 150px;
 }
 
 .container {
@@ -17,10 +17,10 @@ h2 {
 }
 
 .temple {
-    margin: 10px;
+    margin-top: 130px;
     border: 2px solid;
     background-color: rgb(100, 111, 111);
-
+margin-left:10px;
 }
 
 img {
