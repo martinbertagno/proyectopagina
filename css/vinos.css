@@ -1,14 +1,18 @@
 * {
-    font-family: 'Caveat', cursive;
-    background-color: rgb(199, 195, 195);
+    font-family: 'Caveat', cursive; color: rgb(218, 19, 19);
+   
 }
+
+body{ background-image:url(../vinosady.logos.img/novecentoback.jpg);
+    background-size: cover;}
 
 h2 {
     text-align: center;
-    font-size: 100px;
-    padding-top: 10px
+    font-size: 35px;
+    padding-top: 10px;margin-bottom: 0%
 }
-
+h3{font-size: 100px;
+text-align: center; margin-top: 0%;margin-bottom: 0%;}
 li {
     display: inline;
     list-style: none;
@@ -17,7 +21,7 @@ li {
 img {
     width: 200px;
     height: 200px;
-    padding-left: 20px;
+    padding-left: 50px;
     border-radius: 20px;
 }
 

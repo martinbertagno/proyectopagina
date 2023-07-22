@@ -1,23 +1,34 @@
 * {
-    font-family: 'Caveat', cursive;
-    background-color: rgb(199, 195, 195);
+    font-family: 'Caveat', cursive; margin-top:0px;
+   
 }
 
+ .back1{  background-image: url(../vinosady.logos.img/ginysidras/backgin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0px;
+    }
+    .back2{ background-image: url(../vinosady.logos.img/ginysidras/sidraback.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    background-attachment: fixed;
+margin-top: 0px;}
 h2 {
     text-align: center;
     font-size: 100px;
     padding-top: 10px
 }
-
-li {
-    display: inline;
-    list-style: none;
+.calibres{padding-left: 100px;}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 0%;
 }
-
 img {
     width: 200px;
     height: 200px;
-    padding-left: 20px;
+
     border-radius: 20px;
 }
 
