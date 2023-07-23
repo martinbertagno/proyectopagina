@@ -1,0 +1,29 @@
+.titulo {
+    font-size: 100px;
+    text-align: center;height: 350px;
+    background-image:url(../merchan.img/backmerchan.jpg) ;background-size: 50% 100%;
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 180px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.calibres {
+    margin: 30px;
+    width: 150px;
+    height: 250px;
+    margin-left: 60px;
+    justify-content: center
+}
